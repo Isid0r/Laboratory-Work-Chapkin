@@ -1,0 +1,6 @@
+c:\users\maksim\documents\visual studio 2017\Projects\LabaSidorin\LabaSidorin\bin\Debug\LabaSidorin.exe.config
+c:\users\maksim\documents\visual studio 2017\Projects\LabaSidorin\LabaSidorin\bin\Debug\LabaSidorin.exe
+c:\users\maksim\documents\visual studio 2017\Projects\LabaSidorin\LabaSidorin\bin\Debug\LabaSidorin.pdb
+c:\users\maksim\documents\visual studio 2017\Projects\LabaSidorin\LabaSidorin\obj\Debug\LabaSidorin.csprojResolveAssemblyReference.cache
+c:\users\maksim\documents\visual studio 2017\Projects\LabaSidorin\LabaSidorin\obj\Debug\LabaSidorin.exe
+c:\users\maksim\documents\visual studio 2017\Projects\LabaSidorin\LabaSidorin\obj\Debug\LabaSidorin.pdb
